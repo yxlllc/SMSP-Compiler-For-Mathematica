@@ -1,8 +1,22 @@
 # SMSP-Compiler-For-Mathematica
-SMSP(Standard Musical String Protocol) is a set of rules about how to translate string into music. This project is a Mathematica programming realization(compiler) about this idea. Using this compiler, you can convert the TXT inputs into music files such as MID or WAV.
 
-About the grammar details of SMSP and how to use this compiler to create music, please see that DOCX file.
+SMSP(Standard Musical String Protocol) is a set of rules on how to interpret text into music. [SMSP编译器测试.nb](https://github.com/yxlllc/SMSP-Compiler-For-Mathematica/raw/master/SMSP编译器测试.nb) is a Mathematica version realization (compiler) about this idea. This compiler is capable of converting the TXT inputs into music files (format MID or WAV).
 
-About the examples of using this compiler to create real music works, you can check on 例子.nb, which shows the compiler outputs of 5 SMSP project files: helloworld.txt, 字母歌.txt, 字母歌KS.txt, 幻化成风.txt and AlphaChord示范曲.txt. The last one was made by LePtC, you can check on the profile of his AlphaChord project: https://github.com/LePtC/AlphaChord/blob/master/v0.2.2
+[SMSP入门手册-未完成.docx](https://github.com/yxlllc/SMSP-Compiler-For-Mathematica/raw/master//SMSP入门手册-未完成.docx) describes the grammar of SMSP and how to use this compiler to create music.
 
-beats.txt and chords.txt are include files of these projects, which were also made by LePtC. Thank you so much for your great contribution to SMSP. 
+## Demo projects
+
+File [例子.nb](https://github.com/yxlllc/SMSP-Compiler-For-Mathematica/raw/master/例子.nb) shows how to use this compiler to create real music works, demo songs are:
+
+- [helloworld.txt](https://github.com/yxlllc/SMSP-Compiler-For-Mathematica/raw/master/helloworld.txt)
+- [字母歌.txt](https://github.com/yxlllc/SMSP-Compiler-For-Mathematica/raw/master/字母歌.txt)
+- [字母歌KS.txt](https://github.com/yxlllc/SMSP-Compiler-For-Mathematica/raw/master/字母歌KS.txt)
+- [幻化成风.txt](https://github.com/yxlllc/SMSP-Compiler-For-Mathematica/raw/master/幻化成风.txt)
+- [AlphaChord示范曲.txt](https://github.com/yxlllc/SMSP-Compiler-For-Mathematica/raw/master/AlphaChord示范曲.txt).
+
+The last one was created by [@LePtC](https://github.com/LePtC), for more detail please check his [AlphaChord](https://github.com/LePtC/AlphaChord/) project.
+
+## Include files
+
+[beats.txt](https://github.com/yxlllc/SMSP-Compiler-For-Mathematica/raw/master/chords.txt) and [chords.txt](https://github.com/yxlllc/SMSP-Compiler-For-Mathematica/raw/master/chords.txt) are necessary include files for the demo projects. These include files were also created by [@LePtC](https://github.com/LePtC). The author deeply appreciate his great contribution to SMSP.
+
