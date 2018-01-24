@@ -5,4 +5,4 @@ About the grammar details of SMSP and how to use this compiler to create music, 
 
 About the examples of using this compiler to create real music works, you can check on 例子.nb, which shows the compiler outputs of 5 SMSP project files: helloworld.txt, 字母歌.txt, 字母歌KS.txt, 幻化成风.txt and AlphaChord示范曲.txt. The last one was made by LePtC, you can check on the profile of his AlphaChord project: https://github.com/LePtC/AlphaChord/blob/master/v0.2.2
 
-beats.txt and chords.txt are include files of these projects，which was also made by LePtC. Thank you so much for your great contribution to SMSP. 
+beats.txt and chords.txt are include files of these projects, which was also made by LePtC. Thank you so much for your great contribution to SMSP. 
