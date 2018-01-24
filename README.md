@@ -1,5 +1,5 @@
 # SMSP-Compiler-For-Mathematica
-SMSP(Standard Musical String Protocol) is a set of rules about how to translate string into music. This project is a Mathematica programming realization(compiler) about this idea. Using this compiler, you can convert the TXT input into music files such as MID or WAV.
+SMSP(Standard Musical String Protocol) is a set of rules about how to translate string into music. This project is a Mathematica programming realization(compiler) about this idea. Using this compiler, you can convert the TXT inputs into music files such as MID or WAV.
 
 About the grammar details of SMSP and how to use this compiler to create music, please see that DOCX file.
 
