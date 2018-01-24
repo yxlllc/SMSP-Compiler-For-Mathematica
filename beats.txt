@@ -1,0 +1,17 @@
+% µ×¹Ä
+M{BassDrum2}
+% ¾ü¹Ä
+S{Snare}
+
+% ±Õïï
+T{HiHatClosed}
+% ¿ªïï
+To{HiHatOpen}
+% µõïï
+Tc{CrashCymbal}
+
+% àÌàÌ¹Ä
+lT{LowTom}
+mT{MidTom}
+nT{MidTom2}
+hT{HighTom}
