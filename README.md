@@ -20,3 +20,8 @@ The last one was created by [@LePtC](https://github.com/LePtC), for more detail 
 
 [beats.txt](https://github.com/yxlllc/SMSP-Compiler-For-Mathematica/raw/master/chords.txt) and [chords.txt](https://github.com/yxlllc/SMSP-Compiler-For-Mathematica/raw/master/chords.txt) are necessary include files for the demo projects. These include files were also created by [@LePtC](https://github.com/LePtC). The author deeply appreciate his great contribution to SMSP.
 
+## Recommended configuration environment
+
+At least 10.0 version of Mathematica can successfully compile all project files except [字母歌KS.txt]，which needs at least 11.0 version of Mathematica. 
+It is unclear whether it will work properly under the Linux or Mac Os operating system.
+So the recommended configuration environment now is: 11.0(+) Mathematica + Windows 10
