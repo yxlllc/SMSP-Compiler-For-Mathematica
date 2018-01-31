@@ -22,6 +22,6 @@ The last one was created by [@LePtC](https://github.com/LePtC), for more detail 
 
 ## Recommended configuration environment
 
-At least 10.0 version of Mathematica can successfully compile all project files except [字母歌KS.txt]，which needs at least 11.0 version of Mathematica. 
+At least 10.2 version of Mathematica can successfully compile all project files except [字母歌KS.txt]，which needs at least 11.0 version of Mathematica. 
 It is unclear whether it will work properly under the Linux or Mac Os operating system.
 So the recommended configuration environment now is: 11.0(+) Mathematica + Windows 10
